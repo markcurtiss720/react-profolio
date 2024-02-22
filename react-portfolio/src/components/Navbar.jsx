@@ -18,7 +18,7 @@ const products = [
   { name: 'GitHub', href: 'https://github.com/markcurtiss720', icon: faGithub },
   { name: 'LinkedIn', href: 'https://www.linkedin.com/in/mark-curtiss-b959582b1/', icon: faLinkedin },
   { name: 'Email', href: 'mailto:markcurtiss720@gmail.com', icon: faEnvelope },
-  { name: 'Resume', href: 'https://docs.google.com/document/d/1DUqytYlhl0437bWY0lw2GUxjQZ8KuNQc3bGkQF2_xtc/edit?usp=sharing', icon: faPersonSkiing },
+  { name: 'Resume', href: 'https://docs.google.com/document/d/1OZy5sbizQrD0-MFf0VPAJYimqGNnME7v/edit?usp=sharing', icon: faPersonSkiing },
 ]
 
 function classNames(...classes) {
