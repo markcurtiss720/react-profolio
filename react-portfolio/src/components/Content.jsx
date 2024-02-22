@@ -10,7 +10,7 @@ export default function Content() {
     };
 
     const linkToResume = () => {
-      window.open('https://docs.google.com/document/d/1DUqytYlhl0437bWY0lw2GUxjQZ8KuNQc3bGkQF2_xtc/edit?usp=sharing', '_blank')
+      window.open('https://docs.google.com/document/d/1OZy5sbizQrD0-MFf0VPAJYimqGNnME7v/edit?usp=sharing', '_blank')
     }
 
   return (
@@ -25,7 +25,7 @@ export default function Content() {
               <h2 className="mt-2 text-3xl font-bold tracking-tight bg-gradient-to-r from-blue-400 to-red-500 inline-block text-transparent bg-clip-text sm:text-3xl">Full Stack Developer</h2>
               <p className="mt-6 text-xl leading-8 text-light-blue-900">
                 Currently residing in <span className='text-red-500'>Highland, Utah</span>
-                , and originally from Libby Montana, my path to becoming a developer started after attending the 
+                , and originally from Libby, Montana. My path to becoming a developer started after attending the 
                 <span className='text-red-500'> University of Utah</span> Coding Bootcamp. My journey is fueled by a deep-seated curiosity and a passion for crafting innovative digital solutions that enhance user experiences and simplify everyday tasks.</p>
               <div className='mt-8 flex justify-evenly items-center'>
                 <button 
